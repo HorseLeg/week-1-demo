@@ -7,7 +7,7 @@ import java.util.*;
 
 class Anagram {
 
-	static int NO_OF_CHARS = 50;
+	static int NO_OF_CHARS = 256;
 
 	/* function to check whether two strings
 	are anagram of each other */
